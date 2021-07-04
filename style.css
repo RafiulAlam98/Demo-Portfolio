@@ -8,7 +8,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-section {
+.flexible {
   display: flex;
 }
 .side-by-side {
@@ -52,4 +52,8 @@ h3 {
 }
 h4 {
   font-weight: 300;
+}
+.fashion-image {
+  width: 100%;
+  margin: 0 auto;
 }
